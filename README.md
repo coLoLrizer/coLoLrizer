@@ -1,4 +1,4 @@
-# Timur Lepiostkin — Game Designer
+# Timur — Game Designer
 
 **Specialization:** Combat Systems, Encounter Design, Ability Mechanics  
 **Experience:** 4 months professional (No Name Games) + Independent portfolio work (1+ year summary)
