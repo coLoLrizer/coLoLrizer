@@ -137,7 +137,7 @@ Open to:
 
 ## 📫 Contact
 
-**Email:** colorizer505@gmail.com  
+**Email:** timurl.gamedev@gmail.com  
 **LinkedIn:** https://www.linkedin.com/in/timur-l-476966373/ 
 **Portfolio:** https://github.com/coLoLrizer/PORTFOLIO
 
