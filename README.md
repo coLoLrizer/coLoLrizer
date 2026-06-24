@@ -109,11 +109,9 @@ Redesign proposals for live MMORPG systems:
 
 **Riftwalker — Light/Dark Mode System**  
 Dual-mode combat with phase-specific abilities and mode-switching mechanics.  
-**[View Design →] **
 
 **Ritualist — Ritual Charge System**  
 Converts mask-swapping into charge-based ritual activation.  
-**[View Design →] **
 
 ### Other Projects
 - Rise to Sun — Multiplayer arena GDD
