@@ -33,7 +33,7 @@ Multi-phase alchemist boss with predictive AI, dynamic difficulty modifiers, and
 
 ---
 
-### Telekinetic Class — Full Class Design
+### Telekinetic Class — Class Design
 Complete custom class for Wynncraft MMO with 3 archetypes and 40+ abilities.
 
 **Design Scope:**
