@@ -15,10 +15,10 @@ Every system I build, I try to exploit first. I design boss fights and ability s
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=7lJ2MaJblB4">
-    <img src="https://github.com/user-attachments/assets/b129f88f-6642-41d3-b0b1-55029b2b3e38" width="800">
+    <img src="https://github.com/user-attachments/assets/11b6c16e-ab1f-44cb-9624-a2cda9fad479" width="800">
   </a>
   <br>
-  <sub>May be loading gameplay preview may take a moment...</sub>
+  <sub>Gameplay preview may be loading.. — click to watch full video</sub>
 </p>
 
 Fully deterministic two-phase boss fight, designed and built solo for the CrazyGames × Construct Game Jam — first time ever using Construct 3.
