@@ -38,6 +38,13 @@ Diagnosed a Construct 3-specific bug where `Restart Layout` doesn't clear JS-sid
 ### Crimson Witch — Boss Encounter Design
 📺 [Watch 8-Minute Video Breakdown](https://youtu.be/bGkVlFrUSY4)
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/2210ecf1-854e-4e7f-8150-81bc5fb951bb" width="800">
+  <br>
+  <sub>Gameplay preview may be loading.. — click to watch full video</sub>
+</p>
+
+
 A simple resource idea — a limited potion pool the boss has to keep re-brewing — grew into a full encounter with world-level economic consequences.
 
 **Key Features:**
